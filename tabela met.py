@@ -1,10 +1,11 @@
+"teste"
 "tabela de quantidade de calorias"
 
 exercicio = input(" digite o exercicio que voce pratica: ")
 
 musculaçaoMedia = 3.5
 
-musculaçaoAlta = 6
+musculaçaoAlta = 6 
 
 peso = float(input("digite o seu peso: "))
 
