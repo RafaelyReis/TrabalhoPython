@@ -1,6 +1,6 @@
 # Projeto de Cálculo de Macronutrientes e Gasto Calórico
 
-Este projeto foi feito por RafaelyReis e Sutsca(Beatriz Salles) e é um programa simples em Python que calcula a Taxa de Metabolismo Basal (TMB), os macronutrientes necessários e o gasto calórico com base em informações fornecidas pelo usuário. Ele usa a equação de Harris-Benedict para calcular a TMB e fornece recomendações de consumo de macronutrientes. Além disso, estima o gasto calórico durante diferentes tipos de exercícios.
+Este projeto foi feito por Rafaely Reis(RafaelyReis) e Beatriz Salles(Sutsca), é um programa simples em Python que calcula a Taxa de Metabolismo Basal (TMB), os macronutrientes necessários e o gasto calórico com base em informações fornecidas pelo usuário. Ele usa a equação de Harris-Benedict para calcular a TMB e fornece recomendações de consumo de macronutrientes. Além disso, estima o gasto calórico durante diferentes tipos de exercícios.
 
 ## Funcionalidades
 
